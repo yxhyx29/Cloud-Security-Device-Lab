@@ -19,3 +19,7 @@ auto.key
 
 # Downloaded MediaMTX binaries and configuration
 tools/mediamtx/
+
+# Network packet captures
+captures/*.pcap
+captures/*.pcapng
