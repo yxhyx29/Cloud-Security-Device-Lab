@@ -11,3 +11,11 @@ __pycache__/
 # Editor and operating system files
 .vscode/
 .DS_Store
+
+
+# Generated MediaMTX certificates
+auto.crt
+auto.key
+
+# Downloaded MediaMTX binaries and configuration
+tools/mediamtx/
