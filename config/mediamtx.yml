@@ -1,0 +1,8 @@
+# Cloud Security Device Lab
+# Local-only RTSP streaming configuration
+
+rtspAddress: 127.0.0.1:8554
+
+paths:
+  cam001:
+    source: publisher
